@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Chemical Engineering, Univeristy of California, Davis</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Department of Chemical Engineering, Univeristy of California, Davis</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>2129B Bainer Hall</p>
-    <p>222 Physical Sciences Mall</p>
+    <p>2129B Bainer, UC Davis</p>
     <p>Davis, CA 95616</p>
 
 news: false  # includes a list of news items
