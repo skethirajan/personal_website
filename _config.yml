@@ -251,7 +251,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Ethirajan]
-  first_name: [Sudheesh Kumar, Sudheesh Kumar Ethirajan, Sudheesh K.]
+  first_name: [Sudheesh Kumar, Sudheesh K.]
 
   style: apa
   locale: en
