@@ -15,8 +15,8 @@
       institution: University of California, Davis
       year: 2021-present
       description:
-        - Description 1. Advised by Prof. Ambarish Kulkarni
-        - Description 2. Multiscale modeling for designing functional materials
+        - Advised by Prof. Ambarish Kulkarni
+        - Multiscale modeling for designing functional materials
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -25,14 +25,14 @@
       institution: Carnegie Mellon University
       year: 2019-20
       description:
-        - Description 1. Advised by Prof. Zachary Ulissi
-        - Description 2. Molecular simulations of Nafion ionomer/ Pt interfaces
+        - Advised by Prof. Zachary Ulissi
+        - Molecular simulations of Nafion ionomer/ Pt interfaces
     - title: B.Tech (Honors) & Minor in Computer Science
       institution: Indian Institute of Technology, Dhanbad
       year: 2014-18
       description:
-        - Description 1. Interned at University of Arkansas, USA in 2017
-        - Description 2. Worked on Membrane Separations
+        - Interned at University of Arkansas, USA in 2017
+        - Worked on Membrane Separations
 
 # - title: Experience
 #   type: time_table
