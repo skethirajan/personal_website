@@ -23,10 +23,16 @@
         #     - Sub-description 2.
     - title: MS
       institution: Carnegie Mellon University
-      year: 2020
+      year: 2019-20
       description:
         - Description 1. Advised by Prof. Zachary Ulissi
         - Description 2. Molecular simulations of Nafion ionomer/ Pt interfaces
+    - title: B.Tech (Honors) & Minor in Computer Science
+      institution: Indian Institute of Technology, Dhanbad
+      year: 2014-18
+      description:
+        - Description 1. Interned at University of Arkansas, USA in 2017
+        - Description 2. Worked on Membrane Separations
 
 # - title: Experience
 #   type: time_table
