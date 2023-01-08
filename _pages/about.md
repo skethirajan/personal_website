@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Department of Chemical Engineering, Univeristy of California, Davis</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2129B Bainer, UC Davis</p>
+    <p>Davis, CA 95616</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am 2nd year Ph.D. student at UC Davis, working with [Prof. Ambarish Kulkarni](https://kulkarni.ech.ucdavis.edu/). My research interests include Computational Catalysis, Molecular Simualtions, Accelerated Materials Discovery, and Rare-events Sampling. My current research focusses on developing Machine Learning potentials for studying adsorption and diffusion processes in Metal Organic Frameworks. Previously, I worked with [Prof. Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/) during my Masters from Carnegie Mellon Univeristy (2019-20). My project was on designing high-performance Ionomers for fuel cells. I performed ab-initio simulations to study the interactions of nafion during ORR at the Pt interface.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I started out as an experimentalist and worked with different research groups ([Prof. Joao Crespo](https://scholar.google.com/citations?user=wATwMVAAAAAJ&hl=en) & [Prof. Ranil Wickramasinghe](https://scholar.google.com/citations?user=wsvSN_EAAAAJ&hl=en)) on Membrane Separations and Technology. I am also a proud alumnus of Indian Institute of Technology, Dhanbad. In my free time, I like to cook, explore new places, and read about new technological ventures.
